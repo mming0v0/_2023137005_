@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class ItemInfo : MonoBehaviour
 {
-    public int slotld;
-    public int itemId;
+    public int slotld;      //슬롯 번호
+    public int itemld;      //아이템 번호
 
-    public void InitDummy(int slotld, int itemId)
+    public void InitDummy(int slotld, int itemld)
     {
         this.slotld = slotld;
-        this.itemId = itemId;
+        this.itemld = itemld;
     }
 }
