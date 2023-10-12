@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 5424993051180311823}
   - component: {fileID: 8585091666636804806}
   - component: {fileID: 1321613949321754490}
-  m_Layer: 0
-  m_Name: Capsule 1
+  m_Layer: 6
+  m_Name: Monster_002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0cb444087ee675b45aea8087f8a015ba, type: 2}
+  - {fileID: 2100000, guid: 387f21d55763dfa48a506fdbbff9f0f7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

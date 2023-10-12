@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 51ae4d63379e2a64da7592ebb9694d1a, type: 3}
+  m_Script: {fileID: 11500000, guid: 383578b7bd9f6964cb4bafa809dab2e0, type: 3}
   m_Name: GameDB
   m_EditorClassIdentifier: 
   sheets:
